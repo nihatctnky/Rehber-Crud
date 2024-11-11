@@ -1,9 +1,11 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Rehber-Crud
+
+Bu proje sayesinde, kullanıcıların iletişimlerini düzenli bir şekilde takip edebilir ve gereksiz bilgi karmaşasından kurtulurlar. Kullanıcı dostu arayüzü sayesinde herkesin rahatlıkla kullanabileceği bu uygulama, kişi yönetimi için pratik bir çözüm sunar. Anlık güncellemeler sayesinde yapılan değişiklikler hızla görünür olur; Böylece kullanıcılar her zaman güncel bilgilere ulaşabilirler.İletişimi tek bir yerde toplayarak, kullanıcıların kişilerin ekleme, güncelleme, görüntüleme ve silme gibi temel işlemleri hızlı yapma bilgilerini tanır. 
+
+# Kullanılan Teknolojiler
+
+HTML, CSS, javaScript
+
+# Ekran Gif
+
+![Video Screen1731355878362 (1)](https://github.com/user-attachments/assets/c451316f-827e-4086-8827-73a0a2acf550)
