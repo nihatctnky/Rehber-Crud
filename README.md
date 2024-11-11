@@ -4,7 +4,7 @@ Bu proje sayesinde, kullanıcıların iletişimlerini düzenli bir şekilde taki
 
 # Kullanılan Teknolojiler
 
-HTML, CSS, javaScript
+HTML, SCSS, javaScript
 
 # Ekran Gif
 
